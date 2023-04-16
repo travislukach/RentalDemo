@@ -14,5 +14,5 @@ namespace RentalDemo.Models
         public string Location { get; set; }
         public string NonStandardFeatures { get; set; }
 
-    }
+    }  
 }
